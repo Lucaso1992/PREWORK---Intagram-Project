@@ -1,0 +1,58 @@
+
+
+h1{
+    text-align: center;
+}
+
+.main{
+    background-color: lightgrey;
+    width: 100%;
+    height: 2500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5rem;
+    
+}
+
+.primer-card{
+    background-color: white;
+    height: 435px;
+    width: 278px;
+    margin-top: 4rem;
+}
+
+
+.segundo-card{
+    background-color: white;
+    height: 435px;
+    width: 278px;
+}
+
+
+.tercer-card{
+    background-color: white;
+    height: 435px;
+    width: 278px;
+}
+
+
+.cuarto-card{
+    background-color: white;
+    height: 435px;
+    width: 278px;
+}
+
+.texto{
+    display: flex;
+    flex-direction: row;
+    margin-left: 0.5rem;
+}
+
+.fraction{
+    margin-left: 8rem;
+}
+
+.myfirst{
+    margin-left: 1rem;
+}
